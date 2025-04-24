@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DevTest/CopilotIndices/17.13.430.18484
+/.vs/DevTest/config
+/.vs/DevTest/FileContentIndex
+/.vs
+/.gitignore
